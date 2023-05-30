@@ -1,0 +1,4 @@
+Feature Name,Target,Diameter,Center Latitude,Center Longitude,Coordinate System,Approval Status,Approval Date,Origin
+Palus Epidemiarum,Moon,300.38,-32.00,-27.54,"Planetographic, +East, -180 - 180",Approved,1935,“;Marsh of Epidemics.“;
+Palus Putredinis,Moon,180.45,27.36,0.00,"Planetographic, +East, -180 - 180",Approved,1935,“;Marsh of Decay.“;
+Palus Somni,Moon,163.46,13.69,44.72,"Planetographic, +East, -180 - 180",Approved,1935,“;Marsh of Sleep.“;

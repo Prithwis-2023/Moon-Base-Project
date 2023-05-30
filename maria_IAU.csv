@@ -1,0 +1,23 @@
+Feature Name,Clean Feature Name,Diameter,Center Latitude,Center Longitude,Coordinate System,Approval Status,Origin
+Mare Anguis,Mare Anguis,145.99,22.43,67.58,"Planetographic, +East, -180 - 180",Approved,“;Serpent Sea.“;
+Mare Australe,Mare Australe,996.84,-47.77,91.99,"Planetographic, +East, -180 - 180",Approved,“;Southern Sea.“;
+Mare Cognitum,Mare Cognitum,350.01,-10.53,-22.31,"Planetographic, +East, -180 - 180",Approved,“;Sea that has become known.“; Ranger VII impact site.
+Mare Crisium,Mare Crisium,555.92,16.18,59.10,"Planetographic, +East, -180 - 180",Approved,“;Sea of Crises.“;
+Mare Fecunditatis,Mare Fecunditatis,840.35,-7.83,53.67,"Planetographic, +East, -180 - 180",Approved,“;Sea of Fecundity.“;
+Mare Frigoris,Mare Frigoris,1446.41,57.59,-0.01,"Planetographic, +East, -180 - 180",Approved,“;Sea of Cold.“;
+Mare Humboldtianum,Mare Humboldtianum,230.78,56.92,81.54,"Planetographic, +East, -180 - 180",Approved,"Humboldt, Alexander von; German natural historian (1769-1859)."
+Mare Humorum,Mare Humorum,419.67,-24.48,-38.57,"Planetographic, +East, -180 - 180",Approved,“;Sea of Moisture.“;
+Mare Imbrium,Mare Imbrium,1145.53,34.72,-14.91,"Planetographic, +East, -180 - 180",Approved,“;Sea of Showers.“;
+Mare Ingenii,Mare Ingenii,282.20,-33.25,164.83,"Planetographic, +East, -180 - 180",Approved,“;Sea of Cleverness.“;
+Mare Insularum,Mare Insularum,511.93,7.79,-30.64,"Planetographic, +East, -180 - 180",Approved,“;Sea of Islands.“;
+Mare Marginis,Mare Marginis,357.63,12.70,86.52,"Planetographic, +East, -180 - 180",Approved,“;Sea of the Edge.“;
+Mare Moscoviense,Mare Moscoviense,275.57,27.28,148.12,"Planetographic, +East, -180 - 180",Approved,“;Sea of Muscovy.“;
+Mare Nectaris,Mare Nectaris,339.39,-15.19,34.60,"Planetographic, +East, -180 - 180",Approved,“;Sea of Nectar.“;
+Mare Nubium,Mare Nubium,714.50,-20.59,-17.29,"Planetographic, +East, -180 - 180",Approved,“;Sea of Clouds.“;
+Mare Orientale,Mare Orientale,294.15,-19.87,-94.67,"Planetographic, +East, -180 - 180",Approved,“;Eastern sea.“;
+Mare Serenitatis,Mare Serenitatis,674.28,27.29,18.36,"Planetographic, +East, -180 - 180",Approved,“;Sea of Serenity.“;
+Mare Smythii,Mare Smythii,373.96,-1.71,87.05,"Planetographic, +East, -180 - 180",Approved,"Smyth, William Henry; British astronomer (1788-1865)."
+Mare Spumans,Mare Spumans,143.13,1.30,65.30,"Planetographic, +East, -180 - 180",Approved,“;Foaming Sea.“;
+Mare Tranquillitatis,Mare Tranquillitatis,875.75,8.35,30.83,"Planetographic, +East, -180 - 180",Approved,“;Sea of Tranquility.“;
+Mare Undarum,Mare Undarum,244.84,7.49,68.66,"Planetographic, +East, -180 - 180",Approved,“;Sea of Waves.“;
+Mare Vaporum,Mare Vaporum,242.46,13.20,4.09,"Planetographic, +East, -180 - 180",Approved,“;Sea of Vapors.“;
