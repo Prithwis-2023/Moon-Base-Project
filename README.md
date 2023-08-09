@@ -3,5 +3,6 @@
 
 * **Project Members:** Derek Zuo, Prithwis Das, Anthony Yang, Casson Qin, Helen Sun, Thomas Hu, Sophia Fu, Daniel Cai, Nathan Qiu, Lu Li, Thang Tran.
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-![image](https://github.com/Prithwis-2023/Moon-Base-Project/assets/72024767/3e969cc7-fb82-4508-a422-fc8ede52ccef)
+![lunax_hd](https://github.com/Prithwis-2023/Moon-Base-Project/assets/72024767/8da3587d-01a2-4e0c-8ca3-7e1f19b46895)
+
 
